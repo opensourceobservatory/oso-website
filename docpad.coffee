@@ -12,35 +12,34 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://opensourceobservatory.org"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Open Source Observatory"
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				Open Source Observatory (OSO) for the artificial and natural satellite watching and the development of citizen space technologies.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				open source, astronomy, satellites, observatory, meetup
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Kei Kreutler"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "prox@imity.io"
 
 			# Styles
 			styles: [
+				'https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700'
 				"/styles/twitter-bootstrap.css"
 				"/styles/style.css"
 			]
