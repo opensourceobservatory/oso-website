@@ -19,11 +19,11 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Open Source Observatory"
+			title: "Open Space Observatory"
 
 			# The website description (for SEO)
 			description: """
-				Open Source Observatory (OSO) for the artificial and natural satellite watching and the development of citizen space technologies.
+				This project has moved to openspaceobservatory.org.
 				"""
 
 			# The website keywords (for SEO) separated by commas
